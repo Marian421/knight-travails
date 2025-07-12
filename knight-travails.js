@@ -102,4 +102,4 @@ const knightMoves = ([x, y], [tx, ty]) => {
 
 };
 
-console.log(knightMoves([3,3], [0,0]));
+console.log(knightMoves([0,0], [7,7]));
